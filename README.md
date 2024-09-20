@@ -1,6 +1,6 @@
 # Messaging-App
-Name- Rohan Ranjan Prasad
-University- NIT Rourkela
+Name- Tejas Mahisbadwe
+University- NIT Raipur 
 Department- Mining Engineering
 
 A detailed documentation is provided within the server and client folders.
